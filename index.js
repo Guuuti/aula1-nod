@@ -1,6 +1,8 @@
 import PromptSync from "prompt-sync"
 
 const prompt = PromptSync()
+
+
 //const prompt = require("prompt-sync")() import promptsync subistitui 
 //const temp = Number(prompt("Digite a temperatura: "))
 //prompt('"Digite"')

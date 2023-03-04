@@ -2,6 +2,7 @@ import PromptSync from "prompt-sync"
 
 const prompt = PromptSync()
 
+
 const nasc = Number (prompt("Digite o ano que você nasceu: "))
 
 let result = 2023-nasc
